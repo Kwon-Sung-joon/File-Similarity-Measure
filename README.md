@@ -70,6 +70,8 @@
           </br>
           <img width="150" src="https://user-images.githubusercontent.com/43159901/69982319-81ba8e80-1577-11ea-8f77-4ed68b36d520.PNG">
           </br>
+          </br>
+         --a.c파일과 b.c파일은 같은 파일이므로 두 파일의 유사도가 100%인것을 확인할 수 있다.          
 
 ----------------------------    
 
