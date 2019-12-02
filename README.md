@@ -59,33 +59,45 @@
  
 <div>   
           <strong>***Step2-1***</strong>
-          <strong></strong>
+          </br>
           <strong><파일1>과 <파일2>의 유사도 </strong>
+          </br>
           <img width="500" src="https://user-images.githubusercontent.com/43159901/69982189-33a58b00-1577-11ea-9bd6-ad74e561c3f1.PNG">
+          </br>
           <strong><파일1>과 <파일2>의 유사도를 측정하는 데 생성된 파일.</strong>
+          </br>
           <img width="150" src="https://user-images.githubusercontent.com/43159901/69982319-81ba8e80-1577-11ea-8f77-4ed68b36d520.PNG">
+          </br>
 
 ----------------------------    
 
 <div>   
           </br>
           <strong>***Step2-2***</strong>
-          <strong></strong>
+          </br>
           <strong><파일1>과 <파일3>의 유사도 </strong>
+          </br>
           <img width="500" src="https://user-images.githubusercontent.com/43159901/69982548-0dccb600-1578-11ea-993b-1c9c24f6765b.PNG">
+          </br>
           <strong><파일1>과 <파일3>의 유사도를 측정하는 데 생성된 파일.</strong>
+          </br>
           <img width="150" src="https://user-images.githubusercontent.com/43159901/69982597-32c12900-1578-11ea-83cd-7b55f2dcccfe.PNG">
+          </br>
 
 ----------------------------   
 
 <div>   
           </br>
           <strong>***Step3***</strong>
-          <strong></strong>
+          </br>
           <strong><파일1>과 <파일3>의 결과분석 </strong>
+          </br>
           <strong><a.c.005>, <c.c.005>의 결과분석 </strong>
+          </br>
           <img width="200" src="https://user-images.githubusercontent.com/43159901/69982774-96e3ed00-1578-11ea-93c7-a35f1ca951ac.PNG">
+          </br>
           <img width="200" src="https://user-images.githubusercontent.com/43159901/69982849-bf6be700-1578-11ea-93d2-abd895507628.PNG">
+          </br>
 
 ----------------------------   
 
