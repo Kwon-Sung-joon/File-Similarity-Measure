@@ -11,7 +11,7 @@
           
           
 프로젝트 개발 결과물 소개 (+ 다이어그램 ) :
-다이어그램 
+# Diagram 
 <div>
           <img width="800" src="https://user-images.githubusercontent.com/43159901/69979077-f50cd200-1570-11ea-83d2-adc59d062766.png">
 
