@@ -64,6 +64,8 @@
           </br>
           <strong><파일1>과 <파일2>의 유사도 </strong>
           </br>
+          <strong>유사도 측정에 앞서 CHUNKSIZE는 10으로 통일한다.</strong>          
+          </br>
           <img width="500" src="https://user-images.githubusercontent.com/43159901/69982189-33a58b00-1577-11ea-9bd6-ad74e561c3f1.PNG">
           </br>
           <strong><파일1>과 <파일2>의 유사도를 측정하는 데 생성된 파일.</strong>
