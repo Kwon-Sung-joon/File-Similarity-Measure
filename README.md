@@ -37,14 +37,21 @@
 
 <div>   
           <strong>***Step1***</strong>
-          <strong></strong>
+          </br>      
           <strong><파일1> a.c</strong>
+          </br>
           <img width="250" src="https://user-images.githubusercontent.com/43159901/69980744-29ce5880-1574-11ea-9e98-93bb1f8008d9.PNG">
+          </br>
           <strong><파일2> a.c</strong>
+          </br>
           <img width="250" src="https://user-images.githubusercontent.com/43159901/69980772-4074af80-1574-11ea-97a0-c20e743e06e7.PNG">
+          </br>
           <strong><파일3> b.c</strong>
+          </br>
           <img width="250" src="https://user-images.githubusercontent.com/43159901/69980809-51bdbc00-1574-11ea-9a4a-c6bcdce84205.PNG">
+          </br>
           <strong>--같은 파일, 다른 파일의 예시를 위해 파일1과 파일2는 같은 파일, 파일3은 다른 파일을 예시로 든다. </strong>
+          </br>
 
 
 ----------------------------
@@ -61,6 +68,7 @@
 ----------------------------    
 
 <div>   
+          </br>
           <strong>***Step2-2***</strong>
           <strong></strong>
           <strong><파일1>과 <파일3>의 유사도 </strong>
@@ -71,6 +79,7 @@
 ----------------------------   
 
 <div>   
+          </br>
           <strong>***Step3***</strong>
           <strong></strong>
           <strong><파일1>과 <파일3>의 결과분석 </strong>
