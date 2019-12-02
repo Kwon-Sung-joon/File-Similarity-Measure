@@ -89,21 +89,25 @@
           <strong>***Step3***</strong>
           </br>
           <strong><파일1>과 <파일3>의 결과분석 </strong>
+          </br>          
           </br>
           <strong><"a.c.005"> 파일 </strong>
           </br>                    
           <img width="300" src="https://user-images.githubusercontent.com/43159901/69982774-96e3ed00-1578-11ea-93c7-a35f1ca951ac.PNG">
+          </br>                    
           <strong><"c.c.005"> 파일</strong>
           </br>                                
           <img width="300" src="https://user-images.githubusercontent.com/43159901/69982849-bf6be700-1578-11ea-93d2-abd895507628.PNG">
           </br>
           <strong><"a.c.006"> 파일</strong>
+          </br>                    
           <img width="300" src="https://user-images.githubusercontent.com/43159901/69983486-28079380-157a-11ea-8095-2cbfb151708d.PNG">
           </br>
           <strong><"c..006"> 파일</strong>                                        
+          </br>                    
           <img width="300" src="https://user-images.githubusercontent.com/43159901/69983525-43729e80-157a-11ea-8978-7ced09cb7556.PNG">
           </br>
-                    
+         Step2-2에서 얻은 해쉬 값이 다른 파일 .005, 006 파일을 열어서 비교해 보았을 때 다른 부분이 있는 것을 알 수 있다.
           
 
 ----------------------------   
