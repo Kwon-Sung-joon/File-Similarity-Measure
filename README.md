@@ -13,7 +13,7 @@
 프로젝트 개발 결과물 소개 (+ 다이어그램 ) :
 다이어그램 
 <div>
-          <img width="200" src="https://user-images.githubusercontent.com/43159901/69979077-f50cd200-1570-11ea-83d2-adc59d062766.png">
+          <img width="500" src="https://user-images.githubusercontent.com/43159901/69979077-f50cd200-1570-11ea-83d2-adc59d062766.png">
 
 개발 결과물을 사용하는 방법 소개 ( + 프로그램 구동화면 스크린샷 첨부): 
 
