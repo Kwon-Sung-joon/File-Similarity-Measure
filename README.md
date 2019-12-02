@@ -92,8 +92,6 @@
           </br>
           <strong><파일1>과 <파일3>의 결과분석 </strong>
           </br>
-          <strong><a.c.005>, <c.c.005>의 결과분석 </strong>
-          </br>
           <strong><a.c.005></strong>
           </br>                    
           <img width="300" src="https://user-images.githubusercontent.com/43159901/69982774-96e3ed00-1578-11ea-93c7-a35f1ca951ac.PNG">
