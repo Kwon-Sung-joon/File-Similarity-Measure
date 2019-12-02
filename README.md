@@ -72,7 +72,6 @@
 ----------------------------    
 
 <div>   
-          </br>
           <strong>***Step2-2***</strong>
           </br>
           <strong><파일1>과 <파일3>의 유사도 </strong>
@@ -87,18 +86,18 @@
 ----------------------------   
 
 <div>   
-          </br>
           <strong>***Step3***</strong>
           </br>
           <strong><파일1>과 <파일3>의 결과분석 </strong>
           </br>
-          <strong><a.c.005></strong>
+          <strong><"a.c.005"> 파일 </strong>
           </br>                    
           <img width="300" src="https://user-images.githubusercontent.com/43159901/69982774-96e3ed00-1578-11ea-93c7-a35f1ca951ac.PNG">
-          <strong><c.c.005></strong>
+          <strong><"c.c.005"> 파일</strong>
           </br>                                
           <img width="300" src="https://user-images.githubusercontent.com/43159901/69982849-bf6be700-1578-11ea-93d2-abd895507628.PNG">
           </br>
+          
 
 ----------------------------   
 
