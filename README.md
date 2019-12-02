@@ -44,11 +44,11 @@
           </br>
           <img width="250" src="https://user-images.githubusercontent.com/43159901/69980744-29ce5880-1574-11ea-9e98-93bb1f8008d9.PNG">
           </br>
-          <strong><파일2> a.c</strong>
+          <strong><파일2> b.c</strong>
           </br>
           <img width="250" src="https://user-images.githubusercontent.com/43159901/69980772-4074af80-1574-11ea-97a0-c20e743e06e7.PNG">
           </br>
-          <strong><파일3> b.c</strong>
+          <strong><파일3> c.c</strong>
           </br>
           <img width="250" src="https://user-images.githubusercontent.com/43159901/69980809-51bdbc00-1574-11ea-9a4a-c6bcdce84205.PNG">
           </br>
